@@ -1,0 +1,32 @@
+_repo: Iracema-com-uma-noticia-biographica-do-auctor_67740
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alencar, José Martiniano de
+    aliases:
+    - Alencar, Jose Martiniano de
+    - De Alencar, José Martiniano
+    - Alencar, José de
+    birthdate: 1829
+    deathdate: 1877
+    gutenberg_agent_id: '33653'
+    url: http://www.gutenberg.org/2009/agents/33653
+description: ''
+gutenberg_issued: '2022-03-30'
+identifiers:
+  gutenberg: '67740'
+language: pt
+pgterms:marc904: https://catalog.hathitrust.org/Record/012371865
+pgterms:marc905: 20220326090755alencar
+pgterms:marc906: '1890'
+pgterms:marc907: PT
+production_note: Laura Natal Rodrigues (Images generously made available by Hathi
+  Trust Digital Library.)
+publication_note: Portugal :COMPANHIA NACIONAL EDITORA,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Iracema: com uma noticia biographica do auctor'
+url: http://www.gutenberg.org/ebooks/67740
